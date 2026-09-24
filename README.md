@@ -98,7 +98,9 @@ The benchmark uses cell-population-specific expression profiles together with st
 
 This repository serves as the public project page for the **BONES-GRN** study.
 
-The **source code and implementation, processed benchmark datasets, predefined cross-validation splits, and supporting resources are not publicly available during the review process** and will be made publicly available following acceptance/publication of the manuscript.
+The source data used in this study are publicly available from the Human Embryonic Skeletal Development atlas. The processed benchmark datasets, predefined cross-validation splits, source code and implementation, and supporting resources are available upon request for the purpose of peer review.
+
+These resources will be made publicly available through this repository following acceptance/publication of the manuscript.
 
 ---
 
